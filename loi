@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head>
+     <meta charset="=utf-8">
+     <meta name="descripition" content="Pagina fala um pouco de dois ótimos escritores">
+     <title>Os dois grandiosos escritores</title>
+</head>
+    <body>
+        
+        <h1 style="color:greenyellow">  Os dois grandes escritores </h1><br>
+        <h3 style="color:gray"> "Destrua Este Diário - Keri Smith"
+        <p><img src="keri.jpg.jpg" alt="keri smith" width="400" height="300" /</p>
+            
+            
+        </h3>
+        
+            <h0>
+            "Um diário costuma servir para anotar ideias, memórias ou registros do cotidiano. Keri Smith, ilustradora e artista canadense, inventou um tipo diferente de diário, que exige do usuário uma interação mais lúdica e inusitada. Com a proposta de estimular a criatividade e questionar convenções sobre a forma como lidamos com os objetos, Destrua este diário nos convida a rasgar páginas, rabiscar, pintar fora das linhas, manchar e até mesmo levar o livro para o banho. A ideia surgiu quando Smith começou a refletir sobre o início da sua carreira como artista e percebeu que o perfeccionismo tão exaltado na nossa cultura era um grande empecilho do processo criativo. A experiência fez com que ela entendesse que é preciso esculhambar a monotonia e o lugar-comum para que o novo possa surgir"
+        </h0>
+        <h4>Um pouco de Keri Smith</h4>
+        <p>
+            
+            
+            
+            "Keri Smith nasceu em Toronto, Canada. Ela é do ramo das Artes Gráficas.
+ Como ilustradora trabalha, basicamente, com a criatividade.
+
+Escreveu bastante sobre o assunto, porém, são quase todos considerados livros técnicos.
+
+A maioria de seus livros foram traduzidos para os idiomas europeus.
+
+Ela trabalhou para os mais consagrados jornais do planeta: The New York Times, The Washington Post, The Boston Globe, e, curiosamente para uma fabrica de automóveis, a empresa Ford Motor Company."
+        </p>
+            
+       <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+        <h3>"O Código Da Vinci-Dam brown"</h3>
+        <p>"Vendeu mais de 80 milhões de exemplares em todo o mundo (até 2009),[4] tornando-se um dos livros mais vendidos de todos os tempos. Aborda temas como prelados, seitas e fraternidades, como o 'Priorado de Sião', a Opus Dei e a Maçonaria.
+
+ <p>Robert Langdon ganhou este nome por causa de John Langdon, o artista que criou o ambigrama da capa americana de Anjos e Demônios. O nome do editor de Robert Langdon, Jonas Faukman, é uma brincadeira com Jason Kaufman, editor de Brown na editora americana Doubleday. Leigh Teabing é uma homenagem aos autores de O Santo Graal e a Linhagem Sagrada, Richard Leigh e Michael Baigent (Teabing é anagrama de Baigent).</p>
+
+ <p>O livro é condenado por alguns membros da Igreja Católica desde a produção da adaptação cinematográfica de mesmo nome".
+        </p>
+        <h3 style="color:darkseagreen">Um pouco de: Dam Brown</h3>
+        
+         <p><img src="FB-Image-Dan-Brown-.jpg" alt="Dam Brown" width="400" height="300" /</p>
+        
+        <p>"Dan Brown (1964) é um escritor norte americano, autor de livros de suspense, entre eles, o mega-seller “O Código Da Vinci” que vendeu mais de oitenta e um milhões de exemplares.
+
+        </p>Dan Brown nasceu em Exeter, nos Estados Unidos, no dia 22 de junho de 1964. Graduou-se na Phillips Exeter Academy. Ingressou na Amherst College, em 1982. Foi membro da Fraternidade Psi Upsilon, onde durante o primeiro ano fez uma viagem para a Europa para estudar História da Arte na Universidade de Sevilha, na Espanha".
+
+<p>Dan Brown é casado com a pintora e historiadora de arte Blythe, que colabora nas pesquisas de seus livros, que misturam organizações secretas, cidades históricas, pinturas renascentistas, símbolos medievais, códigos ocultos e conspirações, numa narrativa cinematográfica que prende o leitor até o fim da trama.</p>
+
+<p>Os romances de Dan Brown foram publicados em 54 idiomas. Seu primeiro livro foi “Fortaleza Digital” (1998), depois vieram, “Anjos e Demônios” (2000), “Ponto de Impacto” (2001), “O Código Da Vinci” (2003), “O Símbolo Perdido” (2009) e “Inferno” 2013. O Código da Vinci e Anjos e Demônios já foram transformados em filme, ambos com Tom Hanks no papel principal.</p>
+        <h4 style="color:orangered">*Esse são os dois escritores que eu mais gostei de ler  os livros . Espero que você goste tambem.
+        </h4>
+        
+        <pre> 
+        
+            <h2>ENDEREÇO</h2>
+               Barra da Tjuca       
+               CEP:123-456-789
+               Rio de Janeiro
+               RJ
+        </pre>
+        
+        <h4>Se quiser aprender  tudo sobre computaçao clique em (aqui!)</h4>
+        <a href="https://www.udemy.com/aprendahtml/learn/lecture/6777822#overview">aqui</a>
+    </body>     
+</html>
